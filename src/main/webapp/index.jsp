@@ -23,8 +23,10 @@
 
     <label for="aadhar"><b>PAN NumberS</b></label><br>
     <input type="text" placeholder="Enter PAN Number" name="pan" id="pan" required><br><br><br>
-
-
+    
+    <label for="aadhar"><b>PAN Number2222</b></label><br>
+    <input type="text" placeholder="Enter PAN Number222" name="pan" id="pan" required><br><br><br>
+	
     <hr>
 
     <p>By giving above details, you are agree to our  <a href="#">Terms & Privacy</a>.</p>
