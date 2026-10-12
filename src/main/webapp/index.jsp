@@ -24,8 +24,8 @@
     <label for="aadhar"><b>PAN NumberS</b></label><br>
     <input type="text" placeholder="Enter PAN Number" name="pan" id="pan" required><br><br><br>
     
-    <label for="aadhar"><b>PAN Number2222</b></label><br>
-    <input type="text" placeholder="Enter PAN Number222" name="pan" id="pan" required><br><br><br>
+    <label for="aadhar"><b>TEST NUMBER</b></label><br>
+    <input type="text" placeholder="Enter TEST Number" name="TEST" id="TEST" required><br><br><br>
 	
     <hr>
 
