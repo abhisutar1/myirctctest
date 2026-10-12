@@ -22,7 +22,10 @@
     <input type="text" placeholder="Enter Aaddhar Number" name="aadhar" id="aadhar" required><br><br><br>
 
     <label for="aadhar"><b>PAN Number</b></label><br>
-    <input type="text" placeholder="Enter PAN Number" name="pan" id="pan" required><br><br><br
+    <input type="text" placeholder="Enter PAN Number" name="pan" id="pan" required><br><br><br>
+
+    <label for="aadhar"><b>TEST NUMBER</b></label><br>
+    <input type="text" placeholder="Enter TEST Number" name="test" id="test" required><br><br><br>
 
     <hr>
 
