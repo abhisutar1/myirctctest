@@ -1,3 +1,23 @@
+<html>
+<head>
+<style>
+.button {
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.button1 {background-color: #04AA6D;} /* Green */
+.button2 {background-color: #008CBA;} /* Blue */
+</style>
+</head>
+<body>
 <form action="action_page.php">
   <div class="container">
     <h1>Welcome to MYIRCTC website developed by abhishek!!</h1>
@@ -34,4 +54,5 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 </form>
-
+</body>
+</html>
