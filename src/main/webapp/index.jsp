@@ -2,7 +2,7 @@
   <div class="container">
     <h1>Welcome to MYIRCTC website developed by abhishek!!</h1>
     <h1>Provide below information to book a train ticket</h1>
-    <p>Please fill in this form</p>
+    <h2> <p>Please fill in this form</p></h2>
     <hr>
 
     <label for="name"><b>Name</b></label><br>
