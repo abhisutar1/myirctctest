@@ -27,7 +27,7 @@
     <hr>
 
     <p>By giving above details, you are agree to our  <a href="#">Terms & Privacy</a>.</p>
-    <button type="submit" class="registerbtn">Register</button>
+    <button type="submit" onclick="alert('Please enter all details!')" class="registerbtn">Register</button>
   </div>
 
   <div class="container signin">
