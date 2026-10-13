@@ -18,7 +18,7 @@
     <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required><br><br><br>
 
 
-    <label for="aadhar"><b>Aadhar Number</b></label><br>
+    <label for="aadhar"><b>Aadharssssss Number</b></label><br>
     <input type="text" placeholder="Enter Aaddhar Number" name="aadhar" id="aadhar" required><br><br><br>
 
     <label for="aadhar"><b>PAN Number</b></label><br>
