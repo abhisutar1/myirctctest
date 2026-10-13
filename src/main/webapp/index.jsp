@@ -27,8 +27,8 @@
     <label for="pan"><b>PAN Number</b></label><br>
     <input type="text" placeholder="Enter PAN Number" name="pan" id="pan" required><br><br><br>
     
-    <label for="test"><b>TEST NUMBER</b></label><br>
-    <input type="text" placeholder="Enter TEST Number" name="TEST" id="TEST" required><br><br><br>
+    <label for="test"><b>TEST NUMBERS</b></label><br>
+    <input type="text" placeholder="Enter TEST Numbers" name="TEST" id="TEST" required><br><br><br>
 	
     <hr>
 
