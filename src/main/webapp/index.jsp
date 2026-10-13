@@ -11,7 +11,7 @@
     <label for="gender"><b>Gender</b></label><br>
     <input type="text" placeholder="Enter Gender" name="gender" id="gender" required><br><br><br>
 
-    <label for="email"><b>Email</b></label><br>
+    <label for="email"><b>Email for registration</b></label><br>
     <input type="text" placeholder="Enter Email" name="email" id="email" required><br><br><br>
 
     <label for="psw"><b>Password</b></label><br>
