@@ -8,6 +8,9 @@
     <label for="name"><b>Name</b></label><br>
     <input type="text" placeholder="Enter Name" name="name" id="name" required><br><br><br>
 
+    <label for="gender"><b>Gender</b></label><br>
+    <input type="text" placeholder="Enter Gender" name="gender" id="gender" required><br><br><br>
+
     <label for="email"><b>Email</b></label><br>
     <input type="text" placeholder="Enter Email" name="email" id="email" required><br><br><br>
 
@@ -18,13 +21,13 @@
     <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required><br><br><br>
 
 
-    <label for="aadhar"><b>Aadharssssss Number</b></label><br>
+    <label for="aadhar"><b>Aadhar Number</b></label><br>
     <input type="text" placeholder="Enter Aaddhar Number" name="aadhar" id="aadhar" required><br><br><br>
 
-    <label for="aadhar"><b>PAN Number</b></label><br>
+    <label for="pan"><b>PAN Number</b></label><br>
     <input type="text" placeholder="Enter PAN Number" name="pan" id="pan" required><br><br><br>
     
-    <label for="aadhar"><b>TEST NUMBER</b></label><br>
+    <label for="test"><b>TEST NUMBER</b></label><br>
     <input type="text" placeholder="Enter TEST Number" name="TEST" id="TEST" required><br><br><br>
 	
     <hr>
