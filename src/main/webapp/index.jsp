@@ -27,7 +27,7 @@
     <label for="pan"><b>PAN Number</b></label><br>
     <input type="text" placeholder="Enter PAN Number" name="pan" id="pan" required><br><br><br>
     
-    <label for="test"><b>TEST NUMBERS</b></label><br>
+    <label for="test"><b>TEST NUMBERS is my favourite number</b></label><br>
     <input type="text" placeholder="Enter TEST Numbers" name="TEST" id="TEST" required><br><br><br>
 	
     <hr>
