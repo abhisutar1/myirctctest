@@ -5,7 +5,7 @@
     <h2> <p>Please fill in this form of MYIRCTC</p></h2>
     <hr>
 
-    <label for="name"><b>--------------Name for registration------------------</b></label><br>
+    <label for="name"><b>Name for registration</b></label><br>
     <input type="text" placeholder="Enter Name" name="name" id="name" required><br><br><br>
 
     <label for="gender"><b>Gender</b></label><br>
@@ -29,6 +29,9 @@
     
     <label for="test"><b>TEST NUMBER</b></label><br>
     <input type="text" placeholder="Enter TEST Numbers" name="TEST" id="TEST" required><br><br><br>
+
+    <label for="test"><b>CAPS NUMBER</b></label><br>
+    <input type="text" placeholder="Enter CAPS Numbers" name="CAPS" id="CAPS" required><br><br><br>
 	
     <hr>
 
