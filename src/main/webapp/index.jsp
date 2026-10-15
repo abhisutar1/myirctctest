@@ -8,7 +8,7 @@
     <label for="name"><b>Name for registration</b></label><br>
     <input type="text" placeholder="Enter Name" name="name" id="name" required><br><br><br>
 
-    <label for="gender"><b>Gender</b></label><br>
+    <label for="gender"><b>Gender Male or Female</b></label><br>
     <input type="text" placeholder="Enter Gender" name="gender" id="gender" required><br><br><br>
 
     <label for="email"><b>Email for registration</b></label><br>
