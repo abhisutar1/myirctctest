@@ -33,6 +33,9 @@
     <label for="test"><b>CAPS Number</b></label><br>
     <input type="text" placeholder="Enter CAPS Numbers" name="CAPS" id="CAPS" required><br><br><br>
 	
+
+     <label for="test"><b>CAN entry</b></label><br>
+    <input type="text" placeholder="Enter CAN Number" name="CAN" id="CAN" required><br><br><br>
     <hr>
 
     <p>By giving above details,,, you are agree to our  <a href="#">Terms & Privacy</a>.</p>
