@@ -27,10 +27,10 @@
     <label for="pan"><b>PAN Number</b></label><br>
     <input type="text" placeholder="Enter PAN Number" name="pan" id="pan" required><br><br><br>
     
-    <label for="test"><b>TEST NUMBER</b></label><br>
+    <label for="test"><b>TEST Number</b></label><br>
     <input type="text" placeholder="Enter TEST Numbers" name="TEST" id="TEST" required><br><br><br>
 
-    <label for="test"><b>CAPS NUMBER</b></label><br>
+    <label for="test"><b>CAPS Number</b></label><br>
     <input type="text" placeholder="Enter CAPS Numbers" name="CAPS" id="CAPS" required><br><br><br>
 	
     <hr>
