@@ -14,6 +14,9 @@
     <label for="email"><b>Email Address</b></label><br>
     <input type="text" placeholder="Enter Email" name="email" id="email" required><br><br><br>
 
+    <label for="email"><b>Mobile Number</b></label><br>
+    <input type="text" placeholder="Enter Mobile Number" name="mobile" id="mobile" required><br><br><br>
+
     <label for="psw"><b>Password</b></label><br>
     <input type="password" placeholder="Enter Password" name="psw" id="psw" required><br><br><br>
 
