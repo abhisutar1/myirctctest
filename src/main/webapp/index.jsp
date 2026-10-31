@@ -5,7 +5,7 @@
     <h2> <p>Please fill in this form of MYIRCTC</p></h2>
     <hr>
 
-    <label for="name"><b>Name!</b></label><br>
+    <label for="name"><b>Name!!!!!!!!!!</b></label><br>
     <input type="text" placeholder="Enter Name" name="name" id="name" required><br><br><br>
 
     <label for="gender"><b>Gender</b></label><br>
