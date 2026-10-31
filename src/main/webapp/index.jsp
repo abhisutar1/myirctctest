@@ -5,13 +5,13 @@
     <h2> <p>Please fill in this form of MYIRCTC</p></h2>
     <hr>
 
-    <label for="name"><b>Name_Name_Name</b></label><br>
+    <label for="name"><b>Name</b></label><br>
     <input type="text" placeholder="Enter Name" name="name" id="name" required><br><br><br>
 
     <label for="gender"><b>Gender</b></label><br>
     <input type="text" placeholder="Enter Gender" name="gender" id="gender" required><br><br><br>
 
-    <label for="email"><b>Email</b></label><br>
+    <label for="email"><b>Email Address</b></label><br>
     <input type="text" placeholder="Enter Email" name="email" id="email" required><br><br><br>
 
     <label for="psw"><b>Password</b></label><br>
